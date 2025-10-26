@@ -2,8 +2,8 @@
   "id": "mordenkainen-presents-monsters-of-the-multiverse",
   "title": "Mordenkainen Presents: Monsters of the Multiverse",
   "version": "1.0.0",
-  "manifest": "https://github.com/strangos/mmotm/tree/main/module.json",
-  "download": "https://github.com/strangos/mmotm/tree/main/mmom.zip",
+  "manifest": "https://github.com/strangos/mmotm/module.json",
+  "download": "https://github.com/strangos/mmotm/mmom.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
